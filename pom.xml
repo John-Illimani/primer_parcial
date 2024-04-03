@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.emergentes</groupId>
-    <artifactId>primer_parcial</artifactId>
+    <artifactId>primer_parcial_emergentes</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>primer_parcial</name>
+    <name>primer_parcial_emergentes</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
